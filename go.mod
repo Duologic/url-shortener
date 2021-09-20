@@ -1,4 +1,4 @@
-module github.com/jhaals/url-shortener
+module github.com/Duologic/url-shortener
 
 go 1.16
 

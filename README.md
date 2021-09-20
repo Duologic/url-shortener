@@ -14,7 +14,7 @@ There's also a simple web ui available
     	-p 1337:1337 \
     	-e BASE_URL=http://mydomain.com \
     	-e DB_PATH=/data \
-    	jhaals/url-shortener
+    	duologic/url-shortener
 
 or use `docker-compose`  
 
